@@ -35,5 +35,4 @@ src/
 ## Author
 
 Abdullah Almutiri
-King Abdulaziz University
-Computer Engineering
+
