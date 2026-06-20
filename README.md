@@ -23,6 +23,8 @@ A Java-based Library Management System with a modern Swing GUI.
 * File Handling
 * Exception Handling
 
+* 
+
 ## Project Structure
 
 src/
@@ -31,6 +33,18 @@ src/
 ├── model/
 ├── service/
 └── util/
+
+## Screenshot
+
+![Library GUI](screenshots/main-window.png)
+
+## Future Improvements
+
+- Database Integration (MySQL)
+- User Authentication
+- Advanced Search and Filtering
+- Export Reports
+- Multi-user Support
 
 ## Author
 
