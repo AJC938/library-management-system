@@ -36,7 +36,7 @@ src/
 
 ## Screenshot
 
-![Library GUI](screenshots/main-window.png)
+[![Library GUI](screenshots/main-window.png)](https://raw.githubusercontent.com/AJC938/library-management-system/main/screenshots/main-window.png)
 
 ## Future Improvements
 
