@@ -1,42 +1,39 @@
 # Library Management System
 
-A Java-based Library Management System with a modern Swing GUI.
+A Java-based **Library Management System** with a modern Swing GUI for managing books and borrowing operations.
 
 ## Features
 
-* Add Book
-* Search Book
-* Update Book
-* Delete Book
-* Borrow Book
-* Return Book
-* File Handling
-* Statistics Dashboard
-* Input Validation
+- Add, search, update, and delete books
+- Borrow and return books
+- File-based persistence
+- Statistics dashboard
+- Input validation
+- Exception handling
 
 ## Technologies
 
-* Java
-* Swing GUI
-* OOP
-* ArrayList
-* File Handling
-* Exception Handling
-
-* 
+- Java
+- Java Swing
+- OOP
+- ArrayList
+- File Handling
+- Exception Handling
 
 ## Project Structure
 
+```text
 src/
 ├── app/
 ├── gui/
 ├── model/
 ├── service/
 └── util/
+```
 
 ## Screenshot
 
-[![Library GUI](screenshots/main-window.png)](https://raw.githubusercontent.com/AJC938/library-management-system/main/screenshots/main-window.png)
+![Library Management System](screenshots/Screenshot%202026-06-20%20070506.png)
 
 ## Future Improvements
 
@@ -48,5 +45,6 @@ src/
 
 ## Author
 
-Abdullah Almutiri
+**Abdullah Almutairi**  
+Electrical & Computer Engineering Student · King Abdulaziz University
 
